@@ -1,0 +1,31 @@
+# Rock Paper Scissors Game (Python)
+
+## Description
+This is a simple Rock-Paper-Scissors game developed using Python where the user plays against the computer.
+
+## Features
+- User input
+- Random computer choice
+- Game result detection
+- Score tracking
+- Multiple rounds
+
+## Technologies Used
+- Python
+- Random module
+
+## How to Run
+
+1. Install Python
+2. Run the program
+
+python rock_paper_scissors.py
+
+## Game Rules
+
+Rock beats Scissors  
+Scissors beat Paper  
+Paper beats Rock  
+
+## Author
+Student Mini Project
